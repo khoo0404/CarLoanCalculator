@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Car Loan Calculator</string>
+    <string name="Car_Price">Harga Kereta</string>
+    <string name="calculate">Kira</string>
+    <string name="down_payment">Bayaran Balik</string>
+    <string name="input_error">Nilai yang diperlukan</string>
+    <string name="interest">Faedah</string>
+    <string name="interest_rate">Kadar Faedah</string>
+    <string name="loan">Pinjaman</string>
+    <string name="loan_payment">Bayaran Balik</string>
+    <string name="loan_period">Tempoh Pinjaman</string>
+    <string name="monthly_repayment">Pembayaran Bulanan</string>
+    <string name="reset">Reset</string>
+</resources>
